@@ -1,2 +1,2 @@
 # ipfhas-web-admin
-### a Sails application
+### Web administration of IpFhas project
